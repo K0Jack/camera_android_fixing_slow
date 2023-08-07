@@ -1,0 +1,13 @@
+# This is a generated file; do not edit or check into version control.
+camera_android=/Users/kojack/Documents/camera_android_fixing_slow/
+flutter_plugin_android_lifecycle=/Users/kojack/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.15/
+integration_test=/Users/kojack/Documents/flutter_3106/packages/integration_test/
+path_provider=/Users/kojack/.pub-cache/hosted/pub.dev/path_provider-2.0.15/
+path_provider_android=/Users/kojack/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0/
+path_provider_foundation=/Users/kojack/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.0/
+path_provider_linux=/Users/kojack/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.0/
+path_provider_windows=/Users/kojack/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.0/
+video_player=/Users/kojack/.pub-cache/hosted/pub.dev/video_player-2.7.0/
+video_player_android=/Users/kojack/.pub-cache/hosted/pub.dev/video_player_android-2.4.9/
+video_player_avfoundation=/Users/kojack/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.4.9/
+video_player_web=/Users/kojack/.pub-cache/hosted/pub.dev/video_player_web-2.0.16/
